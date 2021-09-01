@@ -1,3 +1,6 @@
+Deployed at: https://ccard-tanay123.netlify.app/
+
+
 1) Open folder 'credit-card' in VS Code. (File->Open Folder) 
 2)Open terminal-> type command npm install
 3)Type command ng serve
